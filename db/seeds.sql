@@ -1,5 +1,5 @@
 INSERT INTO department (name)
-VALUES ('CustomerService'),
+VALUES ('Customer Service'),
 ('Human Resources'),
 ('Finance'),
 ('Production'),
