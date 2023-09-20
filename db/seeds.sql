@@ -3,7 +3,7 @@ VALUES ('CustomerService'),
 ('Human Resources'),
 ('Finance'),
 ('Production'),
-('Research & Development'),
+('Research And Development'),
 ('Legal');
 
 INSERT INTO role (title, salary, department_id)
