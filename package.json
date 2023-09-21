@@ -7,7 +7,7 @@
         "url": "https://github.com/jguemarez/EmployeeTrackerApp/issues",
         "email": "cantor.dedekind112358@gmail.com"
     },
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
@@ -24,6 +24,8 @@
         "dotenv": "^16.3.1"
     },
     "directories": {
-        "lib": "lib"
+        "lib": "lib",
+        "config": "confif",
+        "db": "db"
     }
 }
