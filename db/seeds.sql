@@ -1,3 +1,4 @@
+/*A sizable sample to populate the database*/
 INSERT INTO department (name)
 VALUES ('Customer Service'),
 ('Human Resources'),

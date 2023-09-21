@@ -1,3 +1,4 @@
+/*The templates for the database's tables and the queries for its inception*/
 DROP DATABASE IF EXISTS business_db;
 CREATE DATABASE business_db;
 
