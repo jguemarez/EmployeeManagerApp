@@ -1,5 +1,6 @@
-//Using 'dotenv' to create a configuration and define environmental variables that hide sensitive info in order to be able to connect to the database using the standard 'mysql2' method
+//Requiring 'mysql2' in order to make a connection to the database and make SQL queries to it.
 const mysql = require('mysql2');
+//Using 'dotenv' to create a configuration and define environmental variables that hide sensitive info in order to be able to connect to the database using the standard 'mysql2' method
 require('dotenv').config();
 
 const config = {
